@@ -1,6 +1,8 @@
 spring:
   application:
     name: runspot
+  profiles:
+    default: local
 
 springdoc:
   swagger-ui:
