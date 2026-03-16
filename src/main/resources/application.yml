@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: runspot
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
